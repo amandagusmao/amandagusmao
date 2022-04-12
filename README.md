@@ -15,17 +15,8 @@
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### 🎧 O que estou ouvindo? (é por sua conta e risco 👾)
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/amandahjt)
-
----
-
 ### Me conheça melhor, só não me ligue de madrugada ✌️
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B" />
 
 [<img align="left" alt="bilgehangecici.site" height="30px" src="https://cdn-icons.flaticon.com/png/512/2859/premium/2859731.png?token=exp=1649795063~hmac=0c91c5c52ac3c7adef0f7904b5b91331" />][website]
 [<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/512/1383/1383262.png"/>][linkedin]
@@ -63,7 +54,7 @@
 
 ---
 
-  <h2 align="center"> Minhas Estatísticas 📈 </h2>
+### Minhas Estatísticas 📈
   
   <div align="center"> 
      <a href="">
@@ -78,6 +69,11 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandagusmao&hide=html&layout=compact&theme=synthwave"/>
     </a>
 </div
+
+---
+  
+<h2 align="center"> Apareceram por aqui 🎉 </h2>
+<p align="center">   <img align="center" src="https://profile-counter.glitch.me/amandagusmao/count.svg" /></p>
 
 <br>
 

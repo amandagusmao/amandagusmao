@@ -18,16 +18,24 @@
 ### Me conheça melhor, só não me ligue de madrugada ✌️
 
 
-[<img align="left" alt="bilgehangecici.site" height="30px" src="https://cdn-icons.flaticon.com/png/512/2859/premium/2859731.png?token=exp=1649795063~hmac=0c91c5c52ac3c7adef0f7904b5b91331" />][website]
-[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/512/1383/1383262.png"/>][linkedin]
-[<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://cdn-icons-png.flaticon.com/512/725/725278.png" />][instagram]
-[<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://cdn-icons.flaticon.com/png/512/2335/premium/2335289.png?token=exp=1649795563~hmac=9b92342278c05e0881b6e36e12c86e7c" />][Twitter]
-[<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://cdn-icons-png.flaticon.com/512/725/725281.png" />][Spotify]
-[<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://cdn-icons-png.flaticon.com/512/1322/1322055.png" />][Twitch]
-[<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://cdn-icons-png.flaticon.com/512/3046/3046119.png" />][TikTok]
-[<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://cdn-icons-png.flaticon.com/512/220/220585.png" />][Facebook]
+[<img align="left" alt="amanda.site" height="30px" src="https://cdn-icons.flaticon.com/png/512/2859/premium/2859731.png?token=exp=1649795063~hmac=0c91c5c52ac3c7adef0f7904b5b91331" />][website]
+[<img align="left" alt="amanda.li | LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/512/1383/1383262.png"/>][linkedin]
+[<img align="left" alt="amanda.in | Instagram" height="30px" src="https://cdn-icons-png.flaticon.com/512/725/725278.png" />][instagram]
+[<img align="left" alt="amanda.tw | Twitter" height="30px" src="https://cdn-icons.flaticon.com/png/512/2335/premium/2335289.png?token=exp=1649795563~hmac=9b92342278c05e0881b6e36e12c86e7c" />][Twitter]
+[<img align="left" alt="amanda.sp | Spotify" height="30px" src="https://cdn-icons-png.flaticon.com/512/725/725281.png" />][Spotify]
+[<img align="left" alt="amanda.tt | Twitch" height="30px" src="https://cdn-icons-png.flaticon.com/512/1322/1322055.png" />][Twitch]
+[<img align="left" alt="amanda.ti | Tiktok" height="30px" src="https://cdn-icons-png.flaticon.com/512/3046/3046119.png" />][TikTok]
+[<img align="left" alt="amanda.tb | Facebook" height="30px" src="https://cdn-icons-png.flaticon.com/512/220/220585.png" />][Facebook]
 
 <br />
+
+---
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Aqui você pode ver minhas playlists semanais, e conhecer melhor meu estilo musical 🎧
+
+[<img align="center" height="110px" src="https://user-images.githubusercontent.com/40282757/163073847-bc11da2e-48ea-4755-829d-40e716b1afaf.png" target="_blank"/>][Playlist]
 
 ---
 
@@ -92,5 +100,5 @@ Sou um baby nesse mundo da programação ainda, então não desistam de mim ❤�
 [Twitch]: https://www.twitch.tv/aishatears/
 [TikTok]: https://www.tiktok.com/@amandagusmao/
 [Facebook]: https://www.facebook.com/amandafgusmao
-
+[Playlist]: https://open.spotify.com/playlist/37i9dQZEVXcIQho0GcexQX
 

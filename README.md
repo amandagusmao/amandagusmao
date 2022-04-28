@@ -1,4 +1,5 @@
-![Rosa Azul e Preto Gradiente Banner para Twitch](https://user-images.githubusercontent.com/40282757/163050118-49fdb26f-2aa2-40a7-b5f5-5fd9e0c4403e.png)
+![Rosa Azul e Preto Gradiente Banner para Twitch](https://user-images.githubusercontent.com/40282757/165837685-a0d3dafe-1435-488a-b226-3818f389d0f7.gif)
+
 
 # E aíiii? Muito prazer, sou Amanda Gusmão <img width="40px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif"/>
 

@@ -18,10 +18,10 @@
 ### Me conheça melhor, só não me ligue de madrugada ✌️
 
 
-[<img align="left" alt="amanda.site" height="30px" src="https://cdn-icons.flaticon.com/png/512/2859/premium/2859731.png?token=exp=1649795063~hmac=0c91c5c52ac3c7adef0f7904b5b91331" />][website]
+[<img align="left" alt="amanda.site" height="30px" src="https://user-images.githubusercontent.com/40282757/165824363-33151c55-0c34-4fc7-a23e-9058709e84f6.png" />][website]
 [<img align="left" alt="amanda.li | LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/512/1383/1383262.png"/>][linkedin]
 [<img align="left" alt="amanda.in | Instagram" height="30px" src="https://cdn-icons-png.flaticon.com/512/725/725278.png" />][instagram]
-[<img align="left" alt="amanda.tw | Twitter" height="30px" src="https://cdn-icons.flaticon.com/png/512/2335/premium/2335289.png?token=exp=1649795563~hmac=9b92342278c05e0881b6e36e12c86e7c" />][Twitter]
+[<img align="left" alt="amanda.tw | Twitter" height="30px" src="https://user-images.githubusercontent.com/40282757/165824946-e253a9f5-61bf-4fc8-8a66-554775a159e7.png" />][Twitter]
 [<img align="left" alt="amanda.sp | Spotify" height="30px" src="https://cdn-icons-png.flaticon.com/512/725/725281.png" />][Spotify]
 [<img align="left" alt="amanda.tt | Twitch" height="30px" src="https://cdn-icons-png.flaticon.com/512/1322/1322055.png" />][Twitch]
 [<img align="left" alt="amanda.ti | Tiktok" height="30px" src="https://cdn-icons-png.flaticon.com/512/3046/3046119.png" />][TikTok]

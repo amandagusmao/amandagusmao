@@ -1,10 +1,11 @@
 ![Rosa Azul e Preto Gradiente Banner para Twitch](https://user-images.githubusercontent.com/40282757/163050118-49fdb26f-2aa2-40a7-b5f5-5fd9e0c4403e.png)
 
-# E aíiii? Muito prazer, sou Amanda Gusmão 👩🏻‍🦰 <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# E aíiii? Muito prazer, sou Amanda Gusmão <img width="40px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif"/>
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="ME" height="160px" src="https://user-images.githubusercontent.com/40282757/165825925-4602a694-ea0e-458a-bf29-27dfb27084c8.png" />
 
 ## Uma Engenheira Civil e Ambiental, em transição de carreira, e estudante de Front-End da Laboratoria :)
+
 
 - 💻 Atualmente estou trabalhando em tecnologias de desenvolvimento web como JavaScript, HTML e CSS, etc.
 - 📚 Hoje estou aprendendo (ou tentando aprender) tudo sobre tecnologias Front-end 😅

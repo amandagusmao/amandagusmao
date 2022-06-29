@@ -1,7 +1,7 @@
 ![Rosa Azul e Preto Gradiente Banner para Twitch](https://user-images.githubusercontent.com/40282757/165837685-a0d3dafe-1435-488a-b226-3818f389d0f7.gif)
 
 
-# E aíiii? Muito prazer, sou Amanda Gusmão <img width="40px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif"/>
+# E aíiii? Muito prazer, sou Amanda Gusmão
 
 <img align="right" alt="ME" height="160px" src="https://user-images.githubusercontent.com/40282757/165825925-4602a694-ea0e-458a-bf29-27dfb27084c8.png" />
 
@@ -12,7 +12,7 @@
 - 📚 Hoje estou aprendendo (ou tentando aprender) tudo sobre tecnologias Front-end 😅
 - 💪🏼 Objetivos Futuros: Aprender mais e mais, e quem sabe ser uma DEV de sucesso :sunglasses:
 - ⚡ Curiosidade: Amooo jogar, e sou streamer nas horas vagas, <b>me adiciona na twitch</b> :purple_heart: :arrow_heading_down:
-<p align="center"> <img width="50px" src="https://c.tenor.com/PvNTXadUZI8AAAAC/twitch.gif"/> <a href="https://www.twitch.tv/aishatears/" target="_blank">/AishaTears</a> </p>
+<p align="center"> <a href="https://www.twitch.tv/aishatears/" target="_blank">Manda sub: AishaTears <3</a> </p>
 <p align="center"><img height="80px"src="https://blog.twitch.tv/assets/uploads/pef-montage.gif"/></p>
 
 ---

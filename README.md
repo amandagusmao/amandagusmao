@@ -5,14 +5,14 @@
 
 <img align="right" alt="ME" height="160px" src="https://user-images.githubusercontent.com/40282757/165825925-4602a694-ea0e-458a-bf29-27dfb27084c8.png" />
 
-## Uma Engenheira Civil e Ambiental, em transição de carreira, e estudante de Front-End da Laboratoria :)
+## Uma Engenheira Civil e Ambiental, em transição de carreira :)
 
 
 - 💻 Atualmente estou trabalhando em tecnologias de desenvolvimento web como JavaScript, HTML e CSS, etc.
 - 📚 Hoje estou aprendendo (ou tentando aprender) tudo sobre tecnologias Front-end 😅
 - 💪🏼 Objetivos Futuros: Aprender mais e mais, e quem sabe ser uma DEV de sucesso :sunglasses:
 - ⚡ Curiosidade: Amooo jogar, e sou streamer nas horas vagas, <b>me adiciona na twitch</b> :purple_heart: :arrow_heading_down:
-<p align="center"> <a href="https://www.twitch.tv/aishatears/" target="_blank">Manda sub: AishaTears <3</a> </p>
+<p align="center"> <a href="https://www.twitch.tv/aishazita/" target="_blank">Manda sub: Aishazita <3</a> </p>
 <p align="center"><img height="80px"src="https://blog.twitch.tv/assets/uploads/pef-montage.gif"/></p>
 
 ---
@@ -99,7 +99,7 @@ Sou um baby nesse mundo da programação ainda, então não desistam de mim ❤�
 [linkedin]: https://www.linkedin.com/in/gusmaoamanda
 [Twitter]: https://www.twitter.com/amandafgusmao
 [Spotify]: https://open.spotify.com/user/amandahjt
-[Twitch]: https://www.twitch.tv/aishatears/
+[Twitch]: https://www.twitch.tv/aishazita/
 [TikTok]: https://www.tiktok.com/@amandagusmao/
 [Facebook]: https://www.facebook.com/amandafgusmao
 [Playlist]: https://open.spotify.com/playlist/37i9dQZEVXcIQho0GcexQX

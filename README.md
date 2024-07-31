@@ -5,7 +5,7 @@
 
 <img align="right" alt="ME" height="160px" src="https://user-images.githubusercontent.com/40282757/165825925-4602a694-ea0e-458a-bf29-27dfb27084c8.png" />
 
-## Uma Engenheira Civil e Ambiental, em transição de carreira :)
+## Uma Engenheira Civil e Ambiental se aventurando na tecnologia :)
 
 
 - 💻 Atualmente estou trabalhando em tecnologias de desenvolvimento web como JavaScript, HTML e CSS, etc.
@@ -43,9 +43,7 @@
 
 ### 🛠 Linguagens e ferramentas que uso e/ou sou familiarizada 
 
-![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white&style=flat-square)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff&style=flat-square)
 ![React-Native](https://img.shields.io/badge/-React%E2%80%93Native-61DAFB?style=flat-square&logo=react&logoColor=ffffff&style=flat-square)
 ![HTML5](https://img.shields.io/badge/HTML5-chocolate?style=flat-square&logo=html5&logoColor=white&style=flat-square)

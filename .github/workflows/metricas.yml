@@ -1,0 +1,29 @@
+# Atualiza o card de métricas (badges do Credly) do README todo dia.
+# Só faz commit quando algo realmente muda (ex.: badge novo).
+name: Atualizar métricas
+
+on:
+  schedule:
+    - cron: "23 9 * * *" # 06:23 em Brasília
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  metricas:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python scripts/build_assets.py
+      - name: Commit se mudou
+        run: |
+          if git diff --quiet; then echo "nada mudou"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets
+          git commit -m "Atualiza métricas do README"
+          git push
